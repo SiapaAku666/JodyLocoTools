@@ -15,9 +15,9 @@ sleep 1
 toilet -f big -F gay "T00Ls" | lolcat
 toilet -f big -F gay "JodyLoco" 
 echo ""      
-echo "\033[32;1mAuthor : Jody Lucu Kalau Lagi Sange" 
+echo "\033[32;1mAuthor : Jody Lucu Pengen Memek Perawan" 
 echo "\033[35;1mTeam : Jody lagi sange"
-echo "\033[33;1mKontak Me :  Teu boga kontak aing mah anjing"
+echo "\033[33;1mKontak Me :  @JodyTytydKechil69"
 echo "\033[31;1mSubcribe Youtube: JodySange"
 echo "\033[33;1mDarkness Cyber Team" "\033[32;1m&" "\033[36;1mIndonesia Security Lite"
 echo "\033[34;1m[============================[>"
